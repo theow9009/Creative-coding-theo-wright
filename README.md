@@ -14,3 +14,17 @@ I chose the rotaing line over a forlooped ellipse becuase even though these are 
 
 
 TOUCH DESIGNER
+I chose the feedbackloop over image code because I thought it was a good combination of different touchdesigner techniques. I started the code off with instancing using a circle and turning it into a pattern of particles which was then connected to a feedback loop that used this code as a base for a pattern over an image. I used techniques simple techniques from when we first started using touch designer mixed with things I have only just figured out. I would like to become more profitient in feedback loops as I find I'm still having to go back and double check how to make them by looking at past codes. 
+I had unfourtunetly had trouble uploading the full version of this file I found when I opened it from github it the image I had used in the code wouldn't load as part of the project so I uploaded the image to github as a seperate download. Also sometimes the feedback loop wouldn't load unless I changed the comp2 operater to atop and then back to multiply. I don't know why this is (it might just be my laptop being weird) and I'm sorry for the inconvenience.
+
+
+I chose the audio reactive instancing code because of how much of a struggle it was to get it how I wanted it to look. It took alot of experimenting with setting the lowpass of the audio to trigger different parameters on the noise. It kept on looking messy and it wasn't easy to tell that the audio was even triggering it. It took alot of trial and error but I'm happy with the end result. However I only coded it to work over the first few bars of the song as can be seen in my mastadon blog. Going forward I want to find a way to have different parts of the code trigger at different points in the song.
+
+
+I chose the audio reactive feedback loop as its the most complex code I've done so far. However I found that experimenting with the LFO and the audio both triggering the circle TOP forced me to go back and get a better understanding of the basics of what all the parameters of simple TOP operators can do. Gaining a deeper understanding of the basics made me feel way more comfortable doing more complex things as I understood the building blocks where there were big gaps in my knowledge (eg the rgbkey being used to create a black background. Coding this also made realise the benefit of stacking multiple composites in a feedback loop on visuals and how using different combinations of comp operators can produce unexpected effects. Moving forward I really want to get better at coding visuals to music. Right now I'm just experimenting till I find something I like but it would be cool to be able to have an idea of what I want to create in my head and then be able to make it in touchdesigner.
+
+
+
+
+
+
